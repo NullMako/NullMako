@@ -1,16 +1,15 @@
-## Hi there 👋
+# NullMako
+**Self-Drive Malware Analyst | Cybersecurity Student**
 
-<!--
-**NullMako/NullMako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello!** I take apart malware to see how it works. Mostly focused on unpacking, deobfuscation, and analyzing infection chains.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+*  **[advanced-malware-analysis](https://github.com/NullMako/advanced-malware-analysis)** - Deep dives into complex samples.
+*  **[malware-triage-lab](https://github.com/NullMako/daily-malware-analysis)** - Daily reports, rapid triage, IoC extraction, and YARA rule development.
+
+### Tools & Stack
+* **RE:** Ghidra, x64dbg, dnSpy
+* **Analysis:** Static/Dynamic, Sysinternals, Wireshark 
+* **Languages:** C++, Python, x86/x64 Assembly
