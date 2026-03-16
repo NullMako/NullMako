@@ -7,7 +7,7 @@
 
 ## Repositories
 *  **[advanced-malware-analysis](https://github.com/NullMako/advanced-malware-analysis)** - Deep dives into complex samples.
-*  **[malware-triage-lab](https://github.com/NullMako/daily-malware-analysis)** - Daily reports, rapid triage, IoC extraction, and YARA rule development.
+*  **[daily-malware-analysis](https://github.com/NullMako/daily-malware-analysis)** - Daily reports, rapid triage, IoC extraction, and YARA rule development.
 
 ### Tools & Stack
 * **RE:** Ghidra, x64dbg, dnSpy
